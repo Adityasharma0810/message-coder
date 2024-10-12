@@ -1,2 +1,3 @@
 # message-coder
-it encodes your messages and also decodes it .
+this is my first project which i created using python and this programm encodes your message and can also decode it.
+
